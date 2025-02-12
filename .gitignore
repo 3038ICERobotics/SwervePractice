@@ -181,6 +181,7 @@ ctre_sim/
 .wpilib/*
 build/*
 gradle/*
+vendordeps/*
 build.gradle
 gradlew
 gradlew.bat
